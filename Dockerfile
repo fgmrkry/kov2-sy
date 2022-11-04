@@ -1,1 +1,1 @@
-FROM xyouxiu6/koyebvxrayv2:shuangye
+FROM xyouxiu6/koyebvxrayv2:sy
